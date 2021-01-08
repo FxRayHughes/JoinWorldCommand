@@ -1,0 +1,11 @@
+worlds:
+  World:
+    commands:
+      - "console: say 111 %player_name%"
+      - "op: say 111"
+      - "player: say 111"
+  World2:
+    commands:
+      - "console: say 111"
+      - "op: say 111"
+      - "player: say 111"
